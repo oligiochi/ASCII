@@ -14,7 +14,7 @@ link
 - **_Object Recognizer:_**
   [Link al Codice Del Recognizer](ASCII_ObjectReconizer.ipynb).
 - **_Object Detector:_**
-  [Link al Codice Del Recognizer](ASCII_ObjectDetector.ipynb).
+  [Link al Codice Del Detector](ASCII_ObjectDetector.ipynb).
 
 # Credidi
 Me medesimo
