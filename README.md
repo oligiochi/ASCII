@@ -6,7 +6,7 @@ Questo progetto si concentra sull'applicazione di reti neurali, in particolare u
 
 - Recognizer
 
-  <video width="630" height="300" src="example-video.mp4"></video>
+  <video width="630" height="300" src="Videos/Object Recognizer video ld.mp4"></video>
 
 
 
