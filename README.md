@@ -4,9 +4,12 @@ Questo progetto si concentra sull'applicazione di reti neurali, in particolare u
 
 ## Videi Dimostrativi
 
-video
+| Recognizer  | Detector |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
 
 ## Discussione
+
 
 link
 
