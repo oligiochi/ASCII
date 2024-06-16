@@ -24,5 +24,5 @@ link
 - **_Object Detector:_**
   [Link al Codice Del Detector](ASCII_ObjectDetector.ipynb).
 
-# Credidi
+# Crediti
 Me medesimo
