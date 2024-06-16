@@ -5,8 +5,9 @@ Questo progetto si concentra sull'applicazione di reti neurali, in particolare u
 ## Videi Dimostrativi
 
 - Recognizer
-  
-https://github.com/oligiochi/ASCII/assets/54629432/1a56115c-f5c4-4f10-8772-34b4e7c4315c
+
+  <video width="630" height="300" src="example-video.mp4"></video>
+
 
 
 -Detector 
