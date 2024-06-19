@@ -1,6 +1,6 @@
 # ML_Magic Board
 ## Overview
-Questo progetto si concentra sull'applicazione di reti neurali, in particolare una rete neurale convoluzionale (CNN) utilizzando TensorFlow, per il riconoscimento in tempo reale di lettere scritte dagli utenti davanti a una telecamera, come se fosse una lavagna in 2 modalita recognizer e detector. Include un'analisi dei risultati e l'implementazione di un'interfaccia grafica.
+Questo progetto si concentra sull'applicazione di reti neurali, in particolare una rete neurale convoluzionale (CNN) utilizzando TensorFlow, per il riconoscimento in tempo reale di lettere scritte dagli utenti davanti a una telecamera, come se fosse una lavagna in 2 modalita recognizer e detector. Il sistema con l'ausilio di un handtracker ti permete di disegnare sulla magic board e capisce cosa stai scrivendo. 
 
 ## Videi Dimostrativi
 
@@ -24,5 +24,5 @@ link
 - **_Object Detector:_**
   [Link al Codice Del Detector](ASCII_ObjectDetector.ipynb).
 
-# Credidi
+# Crediti
 Me medesimo
