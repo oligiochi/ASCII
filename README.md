@@ -14,15 +14,16 @@ Questo progetto si concentra sull'applicazione di reti neurali, in particolare u
 
 ## Discussione
 
-
-
-link
+**Discussione:**
+[Link alla Discussione](ML_Relazione.pdf).
 
 ## Codici
 - **_Object Recognizer:_**
   [Link al Codice Del Recognizer](ASCII_ObjectReconizer.ipynb).
 - **_Object Detector:_**
   [Link al Codice Del Detector](ASCII_ObjectDetector.ipynb).
+- **_Dataset:_**
+  [Link al dataset](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format).
 
 # Crediti
-Me medesimo
+Giovanni Oliverio
